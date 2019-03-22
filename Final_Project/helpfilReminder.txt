@@ -1,0 +1,2 @@
+O^n is the worst, the more values you have, the slower it gets because it has to look through each value everytime
+O(1) for deleting one because it's only going to pop off the top. It doesn't sort anything it just deletes.
